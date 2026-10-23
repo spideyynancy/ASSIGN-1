@@ -9,7 +9,7 @@ solution:
 5.sents a request to get web page
 6.if website is using https,then connection is encrypted 
 7.server respond back the webpage html code
-8.browser reads the html
+8.browser reads the html code
 9.load css,javascript,images,other files
 10.finally,browser displays the complete webpage on the screen
  
