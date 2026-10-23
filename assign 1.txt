@@ -1,0 +1,15 @@
+# Assignment 1 – What happens between typing a URL and seeing the page?
+
+solution:
+
+1.Type URLin the browser and then enter
+2.browser first check its cache
+3.then DNS will convert the domain name into IP address 
+4.browser connects server through IP address 
+5.sents a request to get web page
+6.if website is using https,then connection is encrypted 
+7.server respond back the webpage html code
+8.browser reads the html
+9.load css,javascript,images,other files
+10.finally,browser displays the complete webpage on the screen
+ 
